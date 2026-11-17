@@ -22,6 +22,7 @@ I build and keep production systems running. For the last 4+ years I've worked o
 |---|---|---|
 | [raster-to-svg](https://github.com/light691/raster-to-svg) | Portable raster-to-SVG agent skill for Claude Code, Gemini CLI and Codex, with tests and Playwright verification | Python · Playwright · GitHub Actions |
 | [pickleOps-v2](https://github.com/light691/pickleOps-v2) | Operations dashboard for a pickleball venue: court bookings with server-side overlap checks, Open Play sessions, payments and reports | React · TypeScript · Hono · SQLite |
+| [bentaGo](https://github.com/light691/bentaGo) | Offline-first Windows point-of-sale for a sari-sari store: day-based ledger, 400+ automated tests, architecture decision records | C# · .NET · SQLite · GitHub Actions |
 
 <!-- Add more rows here as repos are made public -->
 

@@ -29,9 +29,6 @@ Court bookings with server-side overlap checks, shared Open Play sessions with w
 Windows POS for a sari-sari store. Day-based ledger with cash reconciliation and audited reopens, 400+ automated tests, architecture decision records.<br>
 `C#` `.NET` `WPF` `SQLite` `GitHub Actions`
 
-<a href="https://github.com/light691/bentaGo"><img src="https://github.com/light691/bentaGo/raw/main/docs/screenshots/day-close-balanced.png" alt="bentaGo day close showing a balanced cash count" width="49%"></a>
-<a href="https://github.com/light691/bentaGo"><img src="https://github.com/light691/bentaGo/raw/main/docs/screenshots/reconciliation-report.png" alt="bentaGo reconciliation report" width="49%"></a>
-
 #### [raster-to-svg](https://github.com/light691/raster-to-svg): raster-to-SVG agent skill
 Portable skill for Claude Code, Gemini CLI and Codex that rebuilds logos and emblems as clean SVG, with tests and Playwright render checks.<br>
 `Python` `Playwright` `GitHub Actions`
